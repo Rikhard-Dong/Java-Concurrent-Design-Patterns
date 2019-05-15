@@ -5,3 +5,5 @@
 [Future模式](./doc/Future模式.md)
 
 [Master Future模式](./doc/Master-Worker模式.md)
+
+[Guarded Suspension模式](./doc/Guarded-Suspension模式.md)
