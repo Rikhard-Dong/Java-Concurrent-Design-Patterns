@@ -1,5 +1,4 @@
-# Java-Concurrent-Design-Patterns
-java并发设计模式学习
+# java并发设计模式学习
 
 参考了《Java程序性能优化--让你的Java程序更快、更稳定》 一书和网上相关资料
 
