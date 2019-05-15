@@ -59,6 +59,11 @@ public class Master {
         return true;
     }
 
+    /**
+     * 得到最后结果
+     *
+     * @return
+     */
     public long getSumResult() {
         long value = 0;
         for (Map.Entry<Long, Object> entry : results.entrySet()) {
